@@ -12,7 +12,7 @@ const Footer = () => {
   }
 
   return (
-    <footer className="px-3 mt-[200px] bg-bg-footer bg-gray-200 dark:bg-dark-bg">
+    <footer className="px-3 mt-[72px] bg-bg-footer bg-gray-200 dark:bg-dark-bg">
       <div className="w-full max-w-[1425px] mx-auto">
         {/* Follow us section */}
         <div className="flex items-center gap-8 py-8">
